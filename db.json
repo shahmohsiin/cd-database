@@ -2,123 +2,503 @@
   "companies": [
     {
       "id": 1,
-      "name": "Tech Innovators Ltd",
-      "location": "Bangalore",
+      "name": "Tata Consultancy Services",
+      "location": "Mumbai",
       "industry": "Technology",
-      "employees": 250,
-      "founded": 2015,
-      "description": "Leading provider of innovative software solutions",
-      "website": "www.techinnovators.com"
+      "employees": 614795,
+      "founded": 1968,
+      "description": "India's largest IT services and consulting company",
+      "website": "www.tcs.com"
     },
     {
       "id": 2,
-      "name": "Green Solutions Inc",
-      "location": "Mumbai",
-      "industry": "Environment",
-      "employees": 120,
-      "founded": 2018,
-      "description": "Sustainable environmental consulting services",
-      "website": "www.greensolutions.com"
+      "name": "Infosys",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 343234,
+      "founded": 1981,
+      "description": "Global leader in next-generation digital services",
+      "website": "www.infosys.com"
     },
     {
       "id": 3,
-      "name": "FinTech Dynamics",
-      "location": "Hyderabad",
-      "industry": "Finance",
-      "employees": 180,
-      "founded": 2016,
-      "description": "Digital banking and payment solutions",
-      "website": "www.fintechdynamics.com"
+      "name": "Wipro",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 250000,
+      "founded": 1945,
+      "description": "Leading technology services and consulting company",
+      "website": "www.wipro.com"
     },
     {
       "id": 4,
-      "name": "HealthCare Plus",
-      "location": "Delhi",
-      "industry": "Healthcare",
-      "employees": 300,
-      "founded": 2012,
-      "description": "Comprehensive healthcare management platform",
-      "website": "www.healthcareplus.com"
+      "name": "Reliance Industries",
+      "location": "Mumbai",
+      "industry": "Conglomerate",
+      "employees": 347362,
+      "founded": 1966,
+      "description": "India's largest private sector company",
+      "website": "www.ril.com"
     },
     {
       "id": 5,
-      "name": "EduTech Systems",
-      "location": "Pune",
-      "industry": "Education",
-      "employees": 95,
-      "founded": 2019,
-      "description": "Digital learning and e-learning platforms",
-      "website": "www.edutechsystems.com"
+      "name": "HDFC Bank",
+      "location": "Mumbai",
+      "industry": "Finance",
+      "employees": 177443,
+      "founded": 1994,
+      "description": "India's leading private sector bank",
+      "website": "www.hdfcbank.com"
     },
     {
       "id": 6,
-      "name": "Retail Hub Co",
-      "location": "Chennai",
-      "industry": "Retail",
-      "employees": 220,
-      "founded": 2014,
-      "description": "E-commerce and retail management solutions",
-      "website": "www.retailhub.com"
+      "name": "ICICI Bank",
+      "location": "Mumbai",
+      "industry": "Finance",
+      "employees": 125316,
+      "founded": 1994,
+      "description": "Leading private sector bank in India",
+      "website": "www.icicibank.com"
     },
     {
       "id": 7,
-      "name": "Cloud Systems Pro",
-      "location": "Bangalore",
+      "name": "HCL Technologies",
+      "location": "Noida",
       "industry": "Technology",
-      "employees": 340,
-      "founded": 2013,
-      "description": "Cloud infrastructure and DevOps services",
-      "website": "www.cloudsystems.com"
+      "employees": 219000,
+      "founded": 1976,
+      "description": "Global technology and digital services company",
+      "website": "www.hcltech.com"
     },
     {
       "id": 8,
-      "name": "Logistics Express",
-      "location": "Kolkata",
-      "industry": "Logistics",
-      "employees": 280,
-      "founded": 2010,
-      "description": "End-to-end supply chain solutions",
-      "website": "www.logisticsexpress.com"
+      "name": "Tech Mahindra",
+      "location": "Pune",
+      "industry": "Technology",
+      "employees": 157000,
+      "founded": 1986,
+      "description": "Digital transformation and consulting services",
+      "website": "www.techmahindra.com"
     },
     {
       "id": 9,
-      "name": "Media Ventures Ltd",
+      "name": "Mahindra & Mahindra",
       "location": "Mumbai",
-      "industry": "Media",
-      "employees": 150,
-      "founded": 2017,
-      "description": "Digital media and content creation",
-      "website": "www.mediaventures.com"
+      "industry": "Automotive",
+      "employees": 260000,
+      "founded": 1945,
+      "description": "Leading automotive and farm equipment manufacturer",
+      "website": "www.mahindra.com"
     },
     {
       "id": 10,
-      "name": "AutoTech Industries",
-      "location": "Pune",
-      "industry": "Automotive",
-      "employees": 400,
-      "founded": 2008,
-      "description": "Automotive technology and innovation",
-      "website": "www.autotech.com"
+      "name": "Bharti Airtel",
+      "location": "New Delhi",
+      "industry": "Telecommunications",
+      "employees": 35000,
+      "founded": 1995,
+      "description": "India's leading telecommunications provider",
+      "website": "www.airtel.in"
     },
     {
       "id": 11,
-      "name": "CyberSec Solutions",
-      "location": "Hyderabad",
-      "industry": "Technology",
-      "employees": 160,
-      "founded": 2020,
-      "description": "Cybersecurity and data protection services",
-      "website": "www.cybersec.com"
+      "name": "Larsen & Toubro",
+      "location": "Mumbai",
+      "industry": "Construction",
+      "employees": 188000,
+      "founded": 1938,
+      "description": "Major technology, engineering and construction conglomerate",
+      "website": "www.larsentoubro.com"
     },
     {
       "id": 12,
-      "name": "Fashion Forward",
-      "location": "Delhi",
+      "name": "Asian Paints",
+      "location": "Mumbai",
+      "industry": "Manufacturing",
+      "employees": 6800,
+      "founded": 1942,
+      "description": "India's largest paint company",
+      "website": "www.asianpaints.com"
+    },
+    {
+      "id": 13,
+      "name": "Sun Pharmaceutical",
+      "location": "Mumbai",
+      "industry": "Healthcare",
+      "employees": 37500,
+      "founded": 1983,
+      "description": "India's largest pharmaceutical company",
+      "website": "www.sunpharma.com"
+    },
+    {
+      "id": 14,
+      "name": "Titan Company",
+      "location": "Bangalore",
       "industry": "Retail",
-      "employees": 145,
-      "founded": 2019,
-      "description": "Contemporary fashion and lifestyle brand",
-      "website": "www.fashionforward.com"
+      "employees": 10000,
+      "founded": 1984,
+      "description": "Leading manufacturer of watches and jewelry",
+      "website": "www.titan.co.in"
+    },
+    {
+      "id": 15,
+      "name": "ITC Limited",
+      "location": "Kolkata",
+      "industry": "Conglomerate",
+      "employees": 35000,
+      "founded": 1910,
+      "description": "Diversified conglomerate with presence in FMCG and hotels",
+      "website": "www.itcportal.com"
+    },
+    {
+      "id": 16,
+      "name": "Adani Group",
+      "location": "Ahmedabad",
+      "industry": "Conglomerate",
+      "employees": 45000,
+      "founded": 1988,
+      "description": "Multinational conglomerate with diverse business portfolio",
+      "website": "www.adani.com"
+    },
+    {
+      "id": 17,
+      "name": "Flipkart",
+      "location": "Bangalore",
+      "industry": "E-commerce",
+      "employees": 30000,
+      "founded": 2007,
+      "description": "India's leading e-commerce marketplace",
+      "website": "www.flipkart.com"
+    },
+    {
+      "id": 18,
+      "name": "Paytm",
+      "location": "Noida",
+      "industry": "Finance",
+      "employees": 20000,
+      "founded": 2010,
+      "description": "Leading digital payments and financial services platform",
+      "website": "www.paytm.com"
+    },
+    {
+      "id": 19,
+      "name": "Zomato",
+      "location": "Gurugram",
+      "industry": "Food & Beverage",
+      "employees": 5000,
+      "founded": 2008,
+      "description": "Online food delivery and restaurant discovery platform",
+      "website": "www.zomato.com"
+    },
+    {
+      "id": 20,
+      "name": "Ola Cabs",
+      "location": "Bangalore",
+      "industry": "Transportation",
+      "employees": 12000,
+      "founded": 2010,
+      "description": "Ride-hailing and mobility solutions provider",
+      "website": "www.olacabs.com"
+    },
+    {
+      "id": 21,
+      "name": "Byju's",
+      "location": "Bangalore",
+      "industry": "Education",
+      "employees": 15000,
+      "founded": 2011,
+      "description": "World's leading edtech company",
+      "website": "www.byjus.com"
+    },
+    {
+      "id": 22,
+      "name": "Swiggy",
+      "location": "Bangalore",
+      "industry": "Food & Beverage",
+      "employees": 8000,
+      "founded": 2014,
+      "description": "On-demand food delivery platform",
+      "website": "www.swiggy.com"
+    },
+    {
+      "id": 23,
+      "name": "PhonePe",
+      "location": "Bangalore",
+      "industry": "Finance",
+      "employees": 4000,
+      "founded": 2015,
+      "description": "Digital payments and financial services platform",
+      "website": "www.phonepe.com"
+    },
+    {
+      "id": 24,
+      "name": "Bajaj Auto",
+      "location": "Pune",
+      "industry": "Automotive",
+      "employees": 12000,
+      "founded": 1945,
+      "description": "Leading two-wheeler and three-wheeler manufacturer",
+      "website": "www.bajajauto.com"
+    },
+    {
+      "id": 25,
+      "name": "Hero MotoCorp",
+      "location": "New Delhi",
+      "industry": "Automotive",
+      "employees": 8500,
+      "founded": 1984,
+      "description": "World's largest two-wheeler manufacturer",
+      "website": "www.heromotocorp.com"
+    },
+    {
+      "id": 26,
+      "name": "Maruti Suzuki",
+      "location": "New Delhi",
+      "industry": "Automotive",
+      "employees": 18000,
+      "founded": 1981,
+      "description": "India's largest passenger vehicle manufacturer",
+      "website": "www.marutisuzuki.com"
+    },
+    {
+      "id": 27,
+      "name": "Tata Motors",
+      "location": "Mumbai",
+      "industry": "Automotive",
+      "employees": 80000,
+      "founded": 1945,
+      "description": "Leading automobile manufacturer",
+      "website": "www.tatamotors.com"
+    },
+    {
+      "id": 28,
+      "name": "Hindustan Unilever",
+      "location": "Mumbai",
+      "industry": "FMCG",
+      "employees": 19000,
+      "founded": 1933,
+      "description": "India's largest FMCG company",
+      "website": "www.hul.co.in"
+    },
+    {
+      "id": 29,
+      "name": "Nestle India",
+      "location": "Gurugram",
+      "industry": "FMCG",
+      "employees": 8000,
+      "founded": 1912,
+      "description": "Leading food and beverage company",
+      "website": "www.nestle.in"
+    },
+    {
+      "id": 30,
+      "name": "Coca-Cola India",
+      "location": "Gurugram",
+      "industry": "Food & Beverage",
+      "employees": 25000,
+      "founded": 1950,
+      "description": "Leading beverage company in India",
+      "website": "www.coca-colaindia.com"
+    },
+    {
+      "id": 31,
+      "name": "Amazon India",
+      "location": "Bangalore",
+      "industry": "E-commerce",
+      "employees": 100000,
+      "founded": 2013,
+      "description": "Global e-commerce and cloud computing giant",
+      "website": "www.amazon.in"
+    },
+    {
+      "id": 32,
+      "name": "Microsoft India",
+      "location": "Hyderabad",
+      "industry": "Technology",
+      "employees": 18000,
+      "founded": 1990,
+      "description": "Global technology corporation",
+      "website": "www.microsoft.com"
+    },
+    {
+      "id": 33,
+      "name": "Google India",
+      "location": "Hyderabad",
+      "industry": "Technology",
+      "employees": 15000,
+      "founded": 2004,
+      "description": "Global technology company specializing in Internet services",
+      "website": "www.google.co.in"
+    },
+    {
+      "id": 34,
+      "name": "IBM India",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 130000,
+      "founded": 1992,
+      "description": "Global technology and consulting company",
+      "website": "www.ibm.com"
+    },
+    {
+      "id": 35,
+      "name": "Accenture India",
+      "location": "Bangalore",
+      "industry": "Consulting",
+      "employees": 200000,
+      "founded": 1987,
+      "description": "Global professional services company",
+      "website": "www.accenture.com"
+    },
+    {
+      "id": 36,
+      "name": "Cognizant",
+      "location": "Chennai",
+      "industry": "Technology",
+      "employees": 318000,
+      "founded": 1994,
+      "description": "Multinational IT services and consulting corporation",
+      "website": "www.cognizant.com"
+    },
+    {
+      "id": 37,
+      "name": "Capgemini India",
+      "location": "Mumbai",
+      "industry": "Consulting",
+      "employees": 125000,
+      "founded": 2001,
+      "description": "Global leader in consulting and technology services",
+      "website": "www.capgemini.com"
+    },
+    {
+      "id": 38,
+      "name": "Deloitte India",
+      "location": "Mumbai",
+      "industry": "Consulting",
+      "employees": 50000,
+      "founded": 1974,
+      "description": "Global professional services network",
+      "website": "www.deloitte.com"
+    },
+    {
+      "id": 39,
+      "name": "PwC India",
+      "location": "Mumbai",
+      "industry": "Consulting",
+      "employees": 40000,
+      "founded": 1998,
+      "description": "Global professional services network",
+      "website": "www.pwc.in"
+    },
+    {
+      "id": 40,
+      "name": "KPMG India",
+      "location": "Mumbai",
+      "industry": "Consulting",
+      "employees": 35000,
+      "founded": 1993,
+      "description": "Professional services firm specializing in audit and advisory",
+      "website": "www.kpmg.com"
+    },
+    {
+      "id": 41,
+      "name": "EY India",
+      "location": "Mumbai",
+      "industry": "Consulting",
+      "employees": 90000,
+      "founded": 1989,
+      "description": "Global professional services organization",
+      "website": "www.ey.com"
+    },
+    {
+      "id": 42,
+      "name": "Genpact",
+      "location": "Gurugram",
+      "industry": "Business Services",
+      "employees": 100000,
+      "founded": 1997,
+      "description": "Global professional services firm focused on digital transformation",
+      "website": "www.genpact.com"
+    },
+    {
+      "id": 43,
+      "name": "Apollo Hospitals",
+      "location": "Chennai",
+      "industry": "Healthcare",
+      "employees": 70000,
+      "founded": 1983,
+      "description": "Leading integrated healthcare services provider",
+      "website": "www.apollohospitals.com"
+    },
+    {
+      "id": 44,
+      "name": "Fortis Healthcare",
+      "location": "Gurugram",
+      "industry": "Healthcare",
+      "employees": 23000,
+      "founded": 2001,
+      "description": "Leading integrated healthcare delivery service provider",
+      "website": "www.fortishealthcare.com"
+    },
+    {
+      "id": 45,
+      "name": "Max Healthcare",
+      "location": "New Delhi",
+      "industry": "Healthcare",
+      "employees": 12000,
+      "founded": 2000,
+      "description": "Leading healthcare service provider in North India",
+      "website": "www.maxhealthcare.in"
+    },
+    {
+      "id": 46,
+      "name": "Dr. Reddy's Laboratories",
+      "location": "Hyderabad",
+      "industry": "Healthcare",
+      "employees": 24000,
+      "founded": 1984,
+      "description": "Multinational pharmaceutical company",
+      "website": "www.drreddys.com"
+    },
+    {
+      "id": 47,
+      "name": "Cipla",
+      "location": "Mumbai",
+      "industry": "Healthcare",
+      "employees": 22000,
+      "founded": 1935,
+      "description": "Global pharmaceutical company",
+      "website": "www.cipla.com"
+    },
+    {
+      "id": 48,
+      "name": "Biocon",
+      "location": "Bangalore",
+      "industry": "Healthcare",
+      "employees": 11000,
+      "founded": 1978,
+      "description": "Biopharmaceutical company",
+      "website": "www.biocon.com"
+    },
+    {
+      "id": 49,
+      "name": "Vedanta Limited",
+      "location": "Mumbai",
+      "industry": "Mining",
+      "employees": 75000,
+      "founded": 1976,
+      "description": "Natural resources and mining company",
+      "website": "www.vedantalimited.com"
+    },
+    {
+      "id": 50,
+      "name": "JSW Steel",
+      "location": "Mumbai",
+      "industry": "Manufacturing",
+      "employees": 40000,
+      "founded": 1982,
+      "description": "India's leading steel producer",
+      "website": "www.jsw.in"
     }
   ]
 }
