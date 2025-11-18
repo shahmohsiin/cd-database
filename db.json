@@ -1,0 +1,124 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Tech Innovators Ltd",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 250,
+      "founded": 2015,
+      "description": "Leading provider of innovative software solutions",
+      "website": "www.techinnovators.com"
+    },
+    {
+      "id": 2,
+      "name": "Green Solutions Inc",
+      "location": "Mumbai",
+      "industry": "Environment",
+      "employees": 120,
+      "founded": 2018,
+      "description": "Sustainable environmental consulting services",
+      "website": "www.greensolutions.com"
+    },
+    {
+      "id": 3,
+      "name": "FinTech Dynamics",
+      "location": "Hyderabad",
+      "industry": "Finance",
+      "employees": 180,
+      "founded": 2016,
+      "description": "Digital banking and payment solutions",
+      "website": "www.fintechdynamics.com"
+    },
+    {
+      "id": 4,
+      "name": "HealthCare Plus",
+      "location": "Delhi",
+      "industry": "Healthcare",
+      "employees": 300,
+      "founded": 2012,
+      "description": "Comprehensive healthcare management platform",
+      "website": "www.healthcareplus.com"
+    },
+    {
+      "id": 5,
+      "name": "EduTech Systems",
+      "location": "Pune",
+      "industry": "Education",
+      "employees": 95,
+      "founded": 2019,
+      "description": "Digital learning and e-learning platforms",
+      "website": "www.edutechsystems.com"
+    },
+    {
+      "id": 6,
+      "name": "Retail Hub Co",
+      "location": "Chennai",
+      "industry": "Retail",
+      "employees": 220,
+      "founded": 2014,
+      "description": "E-commerce and retail management solutions",
+      "website": "www.retailhub.com"
+    },
+    {
+      "id": 7,
+      "name": "Cloud Systems Pro",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 340,
+      "founded": 2013,
+      "description": "Cloud infrastructure and DevOps services",
+      "website": "www.cloudsystems.com"
+    },
+    {
+      "id": 8,
+      "name": "Logistics Express",
+      "location": "Kolkata",
+      "industry": "Logistics",
+      "employees": 280,
+      "founded": 2010,
+      "description": "End-to-end supply chain solutions",
+      "website": "www.logisticsexpress.com"
+    },
+    {
+      "id": 9,
+      "name": "Media Ventures Ltd",
+      "location": "Mumbai",
+      "industry": "Media",
+      "employees": 150,
+      "founded": 2017,
+      "description": "Digital media and content creation",
+      "website": "www.mediaventures.com"
+    },
+    {
+      "id": 10,
+      "name": "AutoTech Industries",
+      "location": "Pune",
+      "industry": "Automotive",
+      "employees": 400,
+      "founded": 2008,
+      "description": "Automotive technology and innovation",
+      "website": "www.autotech.com"
+    },
+    {
+      "id": 11,
+      "name": "CyberSec Solutions",
+      "location": "Hyderabad",
+      "industry": "Technology",
+      "employees": 160,
+      "founded": 2020,
+      "description": "Cybersecurity and data protection services",
+      "website": "www.cybersec.com"
+    },
+    {
+      "id": 12,
+      "name": "Fashion Forward",
+      "location": "Delhi",
+      "industry": "Retail",
+      "employees": 145,
+      "founded": 2019,
+      "description": "Contemporary fashion and lifestyle brand",
+      "website": "www.fashionforward.com"
+    }
+  ]
+}
